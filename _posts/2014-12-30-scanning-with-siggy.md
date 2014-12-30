@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Scanning With Siggy
 ---
 
