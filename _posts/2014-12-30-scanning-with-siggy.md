@@ -1,9 +1,4 @@
 ---
-published: true
----
-
----
-layout: post
 title: Scanning With Siggy
 ---
 
