@@ -3,6 +3,8 @@ published: false
 ---
 
 ---
+layout: post
+title: Scanning With Siggy
 ---
 
 (this post assumes you understand the mechanics of how to do things in siggy, such as editing connections in the chain map or editing a signature in the signature list; this is not a tutorial on how to use siggy; these are instructions on how to use siggy more better and be less bad)
