@@ -35,7 +35,7 @@ tl;dr
 Here are some ways I have seen people be bad at using siggy. Don't do these things.
 
 * Overheard in comms: "I just finished scanning the system, now let me put the info into siggy"
-* * WRONG: Put info in as you go! This shares the information with the entire corporation as soon as possible. It also lets multiple people scan a system at the same time as they can see what's already been scanned. You've got a few seconds while the probes warp and scan anyway, so use it to do a quick copy and paste into the tool.
+    * WRONG: Put info in as you go! This shares the information with the entire corporation as soon as possible. It also lets multiple people scan a system at the same time as they can see what's already been scanned. You've got a few seconds while the probes warp and scan anyway, so use it to do a quick copy and paste into the tool.
 * Pasting from the Probe Scanner into the comments section of the signature in siggy
  * WRONG: I...just....wow.... Read the above about how to use the Mass Sig Reader.
  * Evidently this might have come from a misconception that two or more people updating the same system at the same time might somehow overwrite each other and cause...um...bad things, and such. Which is wrong. Never not use the Mass Sig Reader.
