@@ -37,10 +37,10 @@ Here are some ways I have seen people be bad at using siggy. Don't do these thin
 * Overheard in comms: "I just finished scanning the system, now let me put the info into siggy"
     * WRONG: Put info in as you go! This shares the information with the entire corporation as soon as possible. It also lets multiple people scan a system at the same time as they can see what's already been scanned. You've got a few seconds while the probes warp and scan anyway, so use it to do a quick copy and paste into the tool.
 * Pasting from the Probe Scanner into the comments section of the signature in siggy
- * WRONG: I...just....wow.... Read the above about how to use the Mass Sig Reader.
- * Evidently this might have come from a misconception that two or more people updating the same system at the same time might somehow overwrite each other and cause...um...bad things, and such. Which is wrong. Never not use the Mass Sig Reader.
+    * WRONG: I...just....wow.... Read the above about how to use the Mass Sig Reader.
+    * Evidently this might have come from a misconception that two or more people updating the same system at the same time might somehow overwrite each other and cause...um...bad things, and such. Which is wrong. Never not use the Mass Sig Reader.
 * Jumping through wormholes without updating their signature in siggy
- * WRONG: In siggy you can fill up the chain map by jumping through wormholes without entering a single signature. By adding the details to the signature list we can see which signatures correspond to which wormholes. You get the chain map populated quicker if you skip entering things into siggy, but you have little to no information about the systems you found.
+  * WRONG: In siggy you can fill up the chain map by jumping through wormholes without entering a single signature. By adding the details to the signature list we can see which signatures correspond to which wormholes. You get the chain map populated quicker if you skip entering things into siggy, but you have little to no information about the systems you found.
 
 #Final thoughts
 If this seems like a lot of bookkeeping and data entry, it is. But the better we can make siggy and our bookmarks look the easier the corp will be able to move around the chain and deal with threats. Take some pride in your work and remember that you're not updating siggy for your own use; you're updating it for the entire corporation to use.
