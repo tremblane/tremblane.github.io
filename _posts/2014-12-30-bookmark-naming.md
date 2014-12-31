@@ -8,7 +8,7 @@ The format for wormhole bookmarks is as follows:
 `[@/#][class] - [name] - [sig]`
 
 * @ - for bookmarks leading away from #Home
-*  # - for bookmarks leading towards #Home
+* \# - for bookmarks leading towards #Home
 * class - C1/2/3/4/5/6, NS, LS, or HS as appropriate
 * name - The name of the system the hole leads to
 * sig - The letter code of the signature for this hole
@@ -36,14 +36,17 @@ These systems should have the following bookmarks:
 >`@C3 - Stuff - OMG`
 
 **C3 Stuff**
+
 >`#Home - XYZ`
 
 >`@C2 - Things - WTF`
 
 **C2 Things**
+
 >`#C3 - Stuff - BBQ`
 
 >`@HS - Amarr - LOL`
 
 **Amarr**
+
 >`#C2 - Things - RIP`
