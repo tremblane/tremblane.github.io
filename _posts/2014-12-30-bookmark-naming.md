@@ -1,12 +1,11 @@
 ---
-layout: page
 title: Bookmark Naming
 ---
 
 #Bookmarks (naming conventions, how do they work!?)
 The format for wormhole bookmarks is as follows:
 
-*[@/#][class] - [name] - [sig]*
+`[@/#][class] - [name] - [sig]`
 
 * @ - for bookmarks leading away from #Home
 * \# - for bookmarks leading towards #Home
